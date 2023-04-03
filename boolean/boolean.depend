@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680471590 source:c:\users\user\desktop\c_facu\boolean\functions.cpp
+	"header.h"
+
+1680471662 c:\users\user\desktop\c_facu\boolean\header.h
+
+1680471662 source:c:\users\user\desktop\c_facu\boolean\main.cpp
+	<stdio.h>
+	"header.h"
+

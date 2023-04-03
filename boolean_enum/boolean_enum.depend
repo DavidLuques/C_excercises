@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1680477566 source:c:\users\user\desktop\c_facu\boolean_enum\functions.c
+	"header.h"
+
+1680477641 c:\users\user\desktop\c_facu\boolean_enum\header.h
+
+1680476489 source:c:\users\user\desktop\c_facu\boolean_enum\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
